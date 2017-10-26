@@ -1,0 +1,22 @@
+body{ background-color: white; color: black; }
+
+th{ padding-left: 10px; padding-right: 10px; border: 1px solid red;}
+
+td{ padding: 2px; padding-left: 5px; padding-right: 5px; border: 1px solid black; text-align: center;}
+
+.rad{height:2px; width: 2px;}
+pre{page-break-before: always;position: static;}
+table.truth_table_sop {page-break-before: always;position: static;}
+table.links{border: 0px solid black; position: absolute; top: 5px; left:20px;}
+td.links27{display: none;}
+td.links8{display: none;}
+a.wf{display: none;}
+a.feedback{display: none;}
+#sop
+{
+  width: 90%;
+  border: 0px solid black;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
